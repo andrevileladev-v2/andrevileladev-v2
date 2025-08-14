@@ -72,7 +72,7 @@ This system aims to improve the efficiency and organization of the clinic, provi
 ## How to Contact Me
 
 - **Website:** [andrevilela.dev.br](https://andrevilela.dev.br)
-- **LinkedIn:** [Andre Vilela](https://www.linkedin.com/in/andre-vilela-dev/)
+- **LinkedIn:** [Andre Vilela](https://www.linkedin.com/in/andrevileladev/)
 - **Email:** andrevileladev@gmail.com
 
 ---
@@ -148,7 +148,7 @@ Este sistema visa melhorar a eficiência e a organização do consultório, prop
 ## Como Me Contatar
 
 - **Website:** [andrevilela.dev.br](https://andrevilela.dev.br)
-- **LinkedIn:** [Andre Vilela](https://www.linkedin.com/in/andre-vilela-dev/)
+- **LinkedIn:** [Andre Vilela](https://www.linkedin.com/in/andrevileladev/)
 - **E-mail:** andrevileladev@gmail.com
 
 ---
