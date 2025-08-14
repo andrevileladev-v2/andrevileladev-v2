@@ -60,7 +60,7 @@ This project is a clinic management system developed with **React** on the front
 
 - **Frontend**: React
 - **Backend**: Node.js
-- **Database**: (specify if used, such as MongoDB, PostgreSQL, etc.)
+- **Database**: MongoDB
 - **Cloud**: Microsoft Azure
 
 This system aims to improve the efficiency and organization of the clinic, providing a better experience for both doctors and patients.
@@ -136,7 +136,7 @@ Este projeto é um sistema de gestão de consultório desenvolvido com **React**
 
 - **Frontend**: React
 - **Backend**: Node.js
-- **Banco de Dados**: (especificar se utilizado, como MongoDB, PostgreSQL, etc.)
+- **Banco de Dados**: MongoDB
 - **Nuvem**: Microsoft Azure
 
 Este sistema visa melhorar a eficiência e a organização do consultório, proporcionando uma melhor experiência para médicos e pacientes.
