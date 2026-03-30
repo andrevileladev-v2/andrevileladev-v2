@@ -95,7 +95,7 @@ Complete clinic management system digitizing patient workflows — appointment s
 
 **Stack:** React · Node.js · MongoDB · Azure
 
-[![Demo](https://img.shields.io/badge/-View_Demo-FF5C57?style=flat-square&logo=vercel&logoColor=white)](https://oandrevilela.netlify.app/)
+![Demo](https://github.com/andrevileladev-v2/gifs-de-trabalhos/blob/main/gifs/video.gif)
 
 ---
 
