@@ -1,156 +1,123 @@
-# 👨‍💻 Andre Vilela Dev
+# Hi, I'm André Vilela 👋
 
-## Language Selection
+**Full Stack Developer** specializing in end-to-end web, mobile, and desktop solutions — from architecture to deployment. I help businesses digitize their operations and grow through technology.
 
-[🇺🇸 English](#english) | [🇧🇷 Português](#portugues)
-
----
-
-## <a name="english">🇺🇸 About Me</a>
-
-I'm André Vilela, a web developer with experience in **React**, **Node.js**, **MongoDB**, and building **React Native applications**. I have **2 years of experience** selling and creating custom systems for businesses, turning ideas into effective and scalable digital solutions. My focus is on developing **modern front-end** and **robust back-end** web systems, always delivering **quality and efficiency**.
-
-## Technologies and Tools
-
-- **Programming Languages:**
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  
-- **Frameworks and Libraries:**
-  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  - ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-  - ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-- **Databases:**
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-- **Cloud and Deployment:**
-  - ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-  - ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-- **Other Tools:**
-  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-  - ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## Recent Projects
-
-# Clinic Management System
-
-This project is a clinic management system developed with **React** on the frontend and **Node.js** on the backend. The goal is to streamline the daily operations of doctors and secretaries, providing an efficient and organized experience.
-
-## Features
-
-- **Appointment Scheduling**: Allows patients to easily schedule appointments while viewing the availability of doctors.
-  
-- **Cloud Storage**: Integration with **Azure** for secure storage of medical documents, ensuring remote and reliable access.
-
-- **Automation of Medical Certificates and Prescriptions**: Automatic generation of medical certificates and prescriptions in PDF format, facilitating the work of healthcare professionals.
-
-- **Download of Excel Tables**: Ability to export data in Excel spreadsheet format, allowing for easy analysis and sharing of information.
-
-- **Patient Records**: Comprehensive registration of patient information, including anamnesis and personal data, for a more personalized care experience.
-
-- **Medication List**: Database of medications with symptom-based search options. Doctors can type in, for example, "pain," and the system suggests analgesics with their respective indications for prescriptions.
-
-- **Registration of Doctors and Secretaries**: User management system that allows the addition of doctors and secretaries with different access permissions.
-
-## Technologies Used
-
-- **Frontend**: React
-- **Backend**: Node.js
-- **Database**: MongoDB
-- **Cloud**: Microsoft Azure
-
-This system aims to improve the efficiency and organization of the clinic, providing a better experience for both doctors and patients.
-
-![Demo](https://github.com/andrevileladev-v2/gifs-de-trabalhos/blob/main/gifs/video.gif)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrevileladev/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://oandrevilela.netlify.app/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andrevileladev@gmail.com)
+[![Malt](https://img.shields.io/badge/-Malt-FF5C57?style=flat-square&logo=malt&logoColor=white)](https://www.malt.com/profile/andrevilela)
 
 ---
 
-## How to Contact Me
+## 🚀 About Me
 
-- **Website:** [andrevilela.dev.br](https://andrevilela.dev.br)
-- **LinkedIn:** [Andre Vilela](https://www.linkedin.com/in/andrevileladev/)
-- **Email:** andrevileladev@gmail.com
+I'm a Full Stack Developer with **2+ years of freelance experience** and **10+ clients** served across healthcare, food service, and professional services. I build complete solutions — web apps, mobile apps, desktop software, and APIs — always focused on solving real business problems.
 
----
+What makes me different: I bridge **modern web technologies** (React, Node.js, NestJS, TypeScript) with **legacy systems** (Delphi/Pascal) — a rare combination that's especially valuable for companies modernizing existing software.
 
-Feel free to explore my repositories and contact me for collaborations or opportunities!
-
----
-
-## <a name="portugues">🇧🇷 Sobre Mim</a>
-
-
-Sou André Vilela, desenvolvedor web com experiência em **React**, **Node.js**, **MongoDB**, e criação de **aplicativos com React Native**. Tenho **2 anos de experiência** vendendo e criando sistemas sob medida para empresas, transformando ideias em soluções digitais eficazes e escaláveis. Meu foco está em **desenvolver sistemas web**, com **front-end moderno** e **back-end robusto**, sempre entregando **qualidade e eficiência**.
-
-## Tecnologias e Ferramentas
-
-- **Linguagens de Programação:**
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  
-- **Frameworks e Bibliotecas:**
-  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  - ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-  - ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-- **Banco de Dados:**
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-- **Cloud e Deploy:**
-  - ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-  - ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-- **Outras Ferramentas:**
-  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-  - ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## Projetos Recentes
-
-# Sistema de Consultório
-
-Este projeto é um sistema de gestão de consultório desenvolvido com **React** no frontend e **Node.js** no backend. O objetivo é facilitar o dia a dia de médicos e secretários, proporcionando uma experiência eficiente e organizada.
-
-## Funcionalidades
-
-- **Agendamento de Consultas**: Permite que pacientes agendem consultas facilmente, visualizando a disponibilidade dos médicos.
-  
-- **Armazenamento na Nuvem**: Integração com **Azure** para armazenamento seguro de documentos médicos, garantindo acesso remoto e confiável.
-
-- **Automatização de Atestados e Receitas**: Geração automática de atestados e receitas médicas em formato PDF, facilitando o trabalho dos profissionais de saúde.
-
-- **Download de Tabelas em Excel**: Possibilidade de exportar dados em formato de planilhas Excel, permitindo fácil análise e compartilhamento de informações.
-
-- **Ficha do Paciente**: Registro completo das informações do paciente, incluindo anamnese e dados pessoais, para um atendimento mais personalizado.
-
-- **Lista de Medicamentos**: Banco de dados de medicamentos com opção de busca por sintoma. O médico pode digitar, por exemplo, "dor", e o sistema sugere analgésicos com suas respectivas indicações para a receita.
-
-- **Cadastro de Médicos e Secretários**: Sistema de gerenciamento de usuários, permitindo a inclusão de médicos e secretários com diferentes permissões de acesso.
-
-## Tecnologias Utilizadas
-
-- **Frontend**: React
-- **Backend**: Node.js
-- **Banco de Dados**: MongoDB
-- **Nuvem**: Microsoft Azure
-
-Este sistema visa melhorar a eficiência e a organização do consultório, proporcionando uma melhor experiência para médicos e pacientes.
-
-![Demo](https://github.com/andrevileladev-v2/gifs-de-trabalhos/blob/main/gifs/video.gif)
+- 🏆 Award-winning project: **SeniorIA** — AI voice assistant featured on TV Guarapari
+- 🎓 Dual degree: Computer Science + Business Administration (IFES & Ampli)
+- 🌍 English certified: Michigan English Test
+- ⚙️ Experienced with both greenfield projects and legacy system modernization
 
 ---
 
-## Como Me Contatar
+## 🛠️ Tech Stack
 
-- **Website:** [andrevilela.dev.br](https://andrevilela.dev.br)
-- **LinkedIn:** [Andre Vilela](https://www.linkedin.com/in/andrevileladev/)
-- **E-mail:** andrevileladev@gmail.com
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Delphi](https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Desktop**
+
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-Sinta-se à vontade para dar uma olhada nos meus repositórios e me contatar para colaborações ou oportunidades!
+## 🏆 Featured Projects
+
+### 🎙️ SeniorIA — AI Voice Assistant for Healthcare
+> Award-winning project · Featured on TV Guarapari · MedSênior & Sebrae Innovation Marathon
+
+Voice-based virtual assistant built for elderly patients of MedSênior. Enables scheduling, reminders, billing, and reports — all through voice in a single conversation. I developed the complete application: frontend, backend, and AI integration.
+
+**Stack:** React Native · Python · REST APIs · AI Integration
+
+[![GitHub](https://img.shields.io/badge/-View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/andrevileladev-v2/SeniorIA)
+
+---
+
+### 🐝 BEEEDU — EdTech Platform for Public Schools
+> Edu Hackathon 2025 · Social Impact · Gamification
+
+Platform connecting public school students with companies, courses, and job opportunities through gamification. I developed the complete frontend.
+
+**Stack:** React · Laravel · MongoDB · Inertia.js · Docker · n8n · Swagger
+
+[![GitHub](https://img.shields.io/badge/-View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/andrevileladev-v2/Beeedu-Plataform)
+
+---
+
+### 🏥 Clinic Management System
+> Freelance project · Healthcare sector
+
+Complete clinic management system digitizing patient workflows — appointment scheduling, automated PDF generation for prescriptions and certificates, patient records with anamnesis, medication database with symptom search, and cloud document storage.
+
+**Stack:** React · Node.js · MongoDB · Azure
+
+[![Demo](https://img.shields.io/badge/-View_Demo-FF5C57?style=flat-square&logo=vercel&logoColor=white)](https://oandrevilela.netlify.app/)
+
+---
+
+## 💼 What I Build for Clients
+
+| Sector | Solution |
+|--------|----------|
+| 🏥 Healthcare | Clinic management systems, patient records, appointment scheduling |
+| 🍽️ Food & Beverage | Restaurant platforms, delivery management, order tracking |
+| 🏢 Professional Services | Office automation, workflow systems, client management |
+| 📱 Mobile | React Native apps for client engagement and service booking |
+| 🖥️ Desktop | Electron apps for internal operations and workflow automation |
+| 🔗 Integrations | REST APIs, third-party services, Google Ads, WhatsApp Business API |
+| ⚙️ Legacy | Delphi/Pascal system maintenance and modernization |
+
+---
+
+## 📫 Let's Work Together
+
+I'm open to **remote freelance projects** and **full-time opportunities**.
+
+- 🌐 Portfolio: [oandrevilela.netlify.app](https://oandrevilela.netlify.app/)
+- 💼 LinkedIn: [andrevileladev](https://www.linkedin.com/in/andrevileladev/)
+- 📧 Email: andrevileladev@gmail.com
+- 🛒 Malt: [andrevilela](https://www.malt.com/profile/andrevilela)
